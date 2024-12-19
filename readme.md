@@ -7,6 +7,7 @@
 - Change the status of a task.
 - Filter tasks by status.
 
+* project url `https://roadmap.sh/projects/task-tracker`
 ## Usage
 * Run the app using the following commands:
 0. **clone repo**

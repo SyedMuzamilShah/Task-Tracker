@@ -8,7 +8,7 @@
 - Filter tasks by status.
 
 ## Usage
-Run the app using the following commands:
+* Run the app using the following commands:
 0. **clone repo**
     ```bash
     git clone https://github.com/SyedMuzamilShah/Task-Tracker

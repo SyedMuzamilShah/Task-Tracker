@@ -1,5 +1,4 @@
 # Todo-CLI Application
-
 ## Features
 - Add new tasks with descriptions.
 - Update existing tasks by ID.
@@ -10,7 +9,9 @@
 
 ## Usage
 Run the app using the following commands:
-
+0. **clone repo**
+   ```bash
+   git clone https://github.com/SyedMuzamilShah/Task-Tracker
 1. **Add a Task**
    ```bash
    node app.js add [description]

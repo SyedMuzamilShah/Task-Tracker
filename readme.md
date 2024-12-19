@@ -1,5 +1,4 @@
  * # Todo-CLI Application
- * 
  * ## Features
  * - Add new tasks with descriptions.
  * - Update existing tasks by ID.

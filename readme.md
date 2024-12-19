@@ -1,6 +1,3 @@
-#!/usr/bin/env node
-
-/**
  * # Todo-CLI Application
  * 
  * ## Features
@@ -65,4 +62,3 @@
  *    ```bash
  *    node app.js readstatus done
  *    ```
- */

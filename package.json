@@ -1,0 +1,17 @@
+{
+  "name": "cli_todo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "todo" : "./app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  
+}
